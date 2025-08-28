@@ -102,7 +102,7 @@ The project evaluated multiple linear regression approaches:
 
 ## Related Links
 
-- **Kaggle Notebook**: [Predictive Maintenance with Linear Regression](https://www.kaggle.com/code/sulymansifat/predictive-maintenance-linear-regression)
+- **Kaggle Notebook**: [Predictive Maintenance with Linear Regression]([https://www.kaggle.com/code/sulymansifat/predictive-maintenance-linear-regression](https://www.kaggle.com/code/sulymansifat/predictive-maintenance-linear-regression))
 
 ## Usage
 
@@ -132,3 +132,4 @@ This project is for educational purposes as part of the Coursera course curricul
 
 **Author**: Md. Sulyman Islam Sifat  
 **Course**: Supervised Machine Learning: Regression (Coursera)
+
